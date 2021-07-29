@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nick-thompson/elementary": "^0.2.2"
+    "@nick-thompson/elementary": "^0.2.2",
+    "path": "^0.12.7"
   }
 }
