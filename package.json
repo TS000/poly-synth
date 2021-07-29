@@ -1,0 +1,15 @@
+{
+  "name": "synth",
+  "version": "1.0.0",
+  "description": "a synthesizer",
+  "main": "index.js",
+  "scripts": {
+    "start": "elementary .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nick-thompson/elementary": "^0.2.2"
+  }
+}
